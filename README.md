@@ -30,7 +30,7 @@ To get started with Geometry Genius Resources, follow these steps:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/geometry-genius-resources.git
+   git clone https://github.com/Nirob-Barman/Geometry-Genius-Resources.git
    ```
 
 2. Navigate to the Project Directory:
